@@ -19,6 +19,7 @@ Para tener una copia del sistema completo funcional en tu maquina local tienes q
 
 #### Correr el proyecto.
 - npm run dev
+- Ingresa en tu navegador a: http://localhost:3000/
 
 ### Construido con:
 - JavaScript.
