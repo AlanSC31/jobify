@@ -15,6 +15,7 @@ Para tener una copia del sistema completo funcional en tu maquina local tienes q
 1. Clona el repositorio: git clone: https://github.com/AlanSC31/PartyApp_android
 2. cd carpeta-proyecto
 3. Instala las dependencias: npm install
+4. Importar la base de datos: a9dq91kuumptvfvd
 
 #### Correr el proyecto.
 - npm run dev
